@@ -10,14 +10,19 @@ Data-driven insights into the EV charging ecosystem, focusing on infrastructure 
 install pandas matplotlib seaborn numpy
 
 ### Basic Analysis 
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
 #### Load dataset
 df = pd.read_csv('ev_charging_stations.csv')
 #### Basic overview
 print(f"Total stations: {len(df)}")
+
 print(f"Countries covered: {df['country'].nunique()}")
+
 print(f"Operators: {df['operator'].nunique()}")
 
 ## Project Structure
