@@ -27,6 +27,7 @@ print(f"Operators: {df['operator'].nunique()}")
 
 ## Project Structure
 ev-charging-network-analysis/
+
 ├── Problem definition & data loading/
 
 │   ├── 01_data_cleaning.ipynb  
