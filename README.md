@@ -45,7 +45,7 @@ import matplotlib.pyplot as plt
 
 import seaborn as sns
 #### Load dataset
-df = pd.read_csv('ev_charging_stations.csv')
+df = pd.read_csv('ev_stations_2025.csv')
 #### Basic overview
 print(f"Total stations: {len(df)}")
 
