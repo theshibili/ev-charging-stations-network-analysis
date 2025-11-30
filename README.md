@@ -28,12 +28,19 @@ print(f"Operators: {df['operator'].nunique()}")
 ## Project Structure
 ev-charging-network-analysis/
 ├── Problem definition & data loading/
+
 │   ├── 01_data_cleaning.ipynb  
+
 │   ├── 02_univariate_analysis.ipynb
+
 │   ├── 03_bivariate_analysis.ipynb  
+
 │   └── 04_multivariate_analysis.ipynb
+
 ├── visualizations/             
+
 ├── reports/                    
+
 └── README.md
 
 ## Technologies & Used
