@@ -35,7 +35,7 @@ Data-driven insights into the EV charging ecosystem, focusing on infrastructure 
 
 ##  Installation & Usage
 #### Prerequisites
-install pandas matplotlib seaborn numpy
+install pandas, matplotlib & seaborn 
 
 ### Basic Analysis 
 
