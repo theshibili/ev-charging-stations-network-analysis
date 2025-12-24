@@ -80,4 +80,4 @@ ev-charging-network-analysis/
 
 ## Author
 - GitHub: [@theshibili](https://github.com/theshibili)
-- Project Repository: [ev-charging-stations-network-analysis](https://github.com/theshibili/ev-charging-stations-network-analysis)
+- Project Repository: [Ev-charging-stations-network-analysis](https://github.com/theshibili/ev-charging-stations-network-analysis)
